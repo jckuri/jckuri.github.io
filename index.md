@@ -1,3 +1,1 @@
-# Juan Carlos Kuri Pinto
-
-# Portfolio of Projects
+# Portfolio of Projects of Juan Carlos Kuri Pinto
