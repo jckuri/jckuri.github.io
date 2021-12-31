@@ -14,3 +14,8 @@ Fractal Image Compression and Fractal Visual Analogies to solve Raven’s Progre
 
 Learning patterns from financial indicators to trade stocks by using genetic algorithms and Q-Learning, the final project of Machine Learning for Trading. I plan to program the Monster Trader based on Deep Reinforcement Learning.
 
+For the course Artificial Intelligence for Robotics, I programmed Online Graph SLAM (Simultaneous Localization And Mapping) with a variable amount of landmarks: https://youtu.be/owGo0SPAvR8. 
+
+I built a line-follower robot with Arduino: https://github.com/jckuri/line-follower-robot 
+
+5 T-shirt designs by using neural style transfer: https://github.com/jckuri/project-t-shirt 
