@@ -1,5 +1,5 @@
 # jckuri.github.io
 
-My Portofolio of Projects:
+My Portfolio of Projects:
 
 https://jckuri.github.io/
